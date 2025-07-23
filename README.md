@@ -33,7 +33,7 @@ This project predicts whether an individual earns more than ₹50K per year usin
 ## 🖥️ Running the App
 
 1. Clone this repo:
-git clone https://github.com/YourUsername/employee-salary-prediction.git
+git clone https://github.com/mushkan24/employee-salary-prediction.git
 cd employee-salary-prediction
 
 2. Install requirements:
